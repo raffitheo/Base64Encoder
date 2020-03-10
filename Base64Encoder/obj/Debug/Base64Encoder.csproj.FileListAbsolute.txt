@@ -1,0 +1,23 @@
+C:\Users\Raffaele\Documents\Visual Studio 2017\Projects\Base64Encoder\Base64Encoder\obj\Debug\Base64Encoder.csprojAssemblyReference.cache
+C:\Users\Raffaele\Documents\Visual Studio 2017\Projects\Base64Encoder\Base64Encoder\obj\Debug\Base64Encoder.csproj.CoreCompileInputs.cache
+C:\Users\Raffaele\Documents\Visual Studio 2017\Projects\Base64Encoder\Base64Encoder\bin\Debug\Base64Encoder.exe.config
+C:\Users\Raffaele\Documents\Visual Studio 2017\Projects\Base64Encoder\Base64Encoder\bin\Debug\Base64Encoder.exe
+C:\Users\Raffaele\Documents\Visual Studio 2017\Projects\Base64Encoder\Base64Encoder\bin\Debug\Base64Encoder.pdb
+C:\Users\Raffaele\Documents\Visual Studio 2017\Projects\Base64Encoder\Base64Encoder\obj\Debug\Base64Encoder.exe
+C:\Users\Raffaele\Documents\Visual Studio 2017\Projects\Base64Encoder\Base64Encoder\obj\Debug\Base64Encoder.pdb
+C:\Users\Raffaele\Documents\Visual Studio 2017\Projects\Base64Encoder\Base64Encoder\bin\Debug\Base64Encoder.exe.manifest
+C:\Users\Raffaele\Documents\Visual Studio 2017\Projects\Base64Encoder\Base64Encoder\bin\Debug\Base64Encoder.application
+C:\Users\Raffaele\Documents\Visual Studio 2017\Projects\Base64Encoder\Base64Encoder\obj\Debug\Base64Encoder.TrustInfo.xml
+C:\Users\Raffaele\Documents\Visual Studio 2017\Projects\Base64Encoder\Base64Encoder\obj\Debug\Base64Encoder.exe.manifest
+C:\Users\Raffaele\Documents\Visual Studio 2017\Projects\Base64Encoder\Base64Encoder\obj\Debug\Base64Encoder.application
+C:\Users\Raffaele-Fisso\source\repos\Base64Encoder\Base64Encoder\bin\Debug\Base64Encoder.exe.config
+C:\Users\Raffaele-Fisso\source\repos\Base64Encoder\Base64Encoder\bin\Debug\Base64Encoder.exe.manifest
+C:\Users\Raffaele-Fisso\source\repos\Base64Encoder\Base64Encoder\bin\Debug\Base64Encoder.application
+C:\Users\Raffaele-Fisso\source\repos\Base64Encoder\Base64Encoder\bin\Debug\Base64Encoder.exe
+C:\Users\Raffaele-Fisso\source\repos\Base64Encoder\Base64Encoder\bin\Debug\Base64Encoder.pdb
+C:\Users\Raffaele-Fisso\source\repos\Base64Encoder\Base64Encoder\obj\Debug\Base64Encoder.csprojAssemblyReference.cache
+C:\Users\Raffaele-Fisso\source\repos\Base64Encoder\Base64Encoder\obj\Debug\Base64Encoder.TrustInfo.xml
+C:\Users\Raffaele-Fisso\source\repos\Base64Encoder\Base64Encoder\obj\Debug\Base64Encoder.exe.manifest
+C:\Users\Raffaele-Fisso\source\repos\Base64Encoder\Base64Encoder\obj\Debug\Base64Encoder.application
+C:\Users\Raffaele-Fisso\source\repos\Base64Encoder\Base64Encoder\obj\Debug\Base64Encoder.exe
+C:\Users\Raffaele-Fisso\source\repos\Base64Encoder\Base64Encoder\obj\Debug\Base64Encoder.pdb
